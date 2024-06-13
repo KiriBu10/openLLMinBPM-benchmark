@@ -7,7 +7,7 @@ The analysis aims to identify task-specific performance variations, compare the 
 
 ### Built with
 * ![platform](https://img.shields.io/badge/platform-linux-brightgreen)
-* ![GPU](https://img.shields.io/badge/GPU-2%20x%20Nvidia%20RTX%20A6000-red)
+* ![Static Badge](https://img.shields.io/badge/GPU-Nvidia%20RTX%20A6000-red)
 * ![python](https://img.shields.io/badge/python-black?logo=python&label=3.8.13)
 
 ## Project Organization
